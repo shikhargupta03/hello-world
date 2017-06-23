@@ -1,2 +1,2 @@
 # hello-world
-My own repostry!
+My own repository!
